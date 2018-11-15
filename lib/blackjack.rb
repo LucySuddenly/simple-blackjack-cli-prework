@@ -39,6 +39,7 @@ def hit?(number)
   else 
     invalid_command
   end
+  number
 end
 
 def invalid_command
