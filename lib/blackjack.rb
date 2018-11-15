@@ -52,6 +52,7 @@ end
 
 
 def runner
+  card_total = 
   welcome
   initial_round
   until display_card_total(number) > 21
